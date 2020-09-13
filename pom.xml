@@ -112,12 +112,6 @@
                 <version>2.8.2</version>
             </plugin>
             
-           <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>3.0.0-M3</version>
-            </plugin>
-
             <plugin>
                 <groupId>org.easyb</groupId>
                 <artifactId>maven-easyb-plugin</artifactId>
